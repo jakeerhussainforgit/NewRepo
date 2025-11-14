@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 jabavajbsabcas c cmn mXXCAKNC CA A 
 
 //code adding by dev2
@@ -14,3 +15,12 @@ public class AsciiValue {
         System.out.println("The ASCII value of " + ch + " is: " + castAscii);
     }
 }
+=======
+jabavajbsabcas c cmn mXXCAKNC CA A
+
+
+basha adding code to java filr 
+for the exa,pdn c m
+to makmkv 
+xckc  km
+>>>>>>> Stashed changes
